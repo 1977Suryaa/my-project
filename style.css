@@ -1,0 +1,21 @@
+body{
+    text-align: center;
+    font-family: 'Dancing Script', cursive;
+    border:20px solid violet;
+}
+#APP{
+    background: linear-gradient(rgb(183, 0, 255) 0%,rgb(0, 38, 255) 100%);
+    border:10px solid green;
+}
+#GAME{
+    background: linear-gradient(rgb(51, 255, 0) 0%,rgb(255, 0, 0) 100%);
+    border:10px solid rgb(255, 0, 0);  
+}
+#CHATBOT{
+    background: linear-gradient(rgb(0, 247, 255) 0%,rgb(21, 255, 0) 100%);
+    border:10px solid rgb(251, 255, 0);
+}
+img:hover{
+    transform: scale(0.8);
+
+}
